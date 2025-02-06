@@ -1,14 +1,37 @@
 import java.util.Scanner;
 public class Armstrong_number {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a number: ");
-        int n=sc.nextInt();
+        int val=153;
+        int num=val;
+        int n=val;
+        double rem=0;
+        double result=0;
         int count=0;
-        for(int i=1;i<=n;i/=10){
+        //find number of digit
+        while (num!=0) {     
+            rem=n%10;
             count++;
+            num/=10;
+
+
+
+        }       
+        System.out.println(count);
+
+        double remain=0;
+        double resultss=0;
+        while (n!=0) {
+            remain=n%10;
+            resultss=resultss+Math.pow(remain, count);
+            n/=10;
         }
-        
+
+        System.out.println("sum is:"+resultss);
+        if(val==resultss){
+            System.out.println("It is amstrong number");
+        }else{
+            System.out.println("Not amstrong number");
+        }
     }
 }
        
