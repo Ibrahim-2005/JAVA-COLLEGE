@@ -1,5 +1,3 @@
-package Day5;
-
 public class Pattern6 {
     public static void main(String[] args) {
         int n = 5;
@@ -8,7 +6,7 @@ public class Pattern6 {
                 System.out.print(" ");
             }
             for (int k = 1; k <= i; k++) {
-                System.out.print("");
+                System.out.print("*");
             }
             System.out.println();
         }

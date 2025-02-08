@@ -1,4 +1,3 @@
-package Day5;
 
 import java.util.Scanner;
 
@@ -7,7 +6,7 @@ public class ArrayDemo {
         Scanner sc=new Scanner(System.in);
         //1st Way
         int[] a= {1,2,3,4,5,6};
-        System.out.println(a); //[I@3fee733d
+        // System.out.println(a); //[I@3fee733d
             for(int i=0;i<a.length;i++){
                 System.out.print(a[i]+" ");
             }
@@ -22,5 +21,6 @@ public class ArrayDemo {
         for(int value:a){   
             System.out.print(value+" ");
         }
+        sc.close();
     }
 }

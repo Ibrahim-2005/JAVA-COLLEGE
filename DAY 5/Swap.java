@@ -1,4 +1,4 @@
-package Day5;
+
 
 public class Swap {
     public static void main(String[] args) {
@@ -7,7 +7,8 @@ public class Swap {
         a=b;
         b=temp;
 
-        System.out.println(a);
+        System.out.println(a+" "+b);
+
 
         int c=4,d=5;
         c=c+d; //9

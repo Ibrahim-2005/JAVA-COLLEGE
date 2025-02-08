@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Frequency_of_num {
     public static void main(String[] args) {
-        int a[]={1,2,3,4,5,6,};
+        int a[]={1,2,3,4,2,6,};
         int freq[]=new int[a.length];
         for (int i=0;i<a.length;i++){
             int no=a[i];
@@ -20,7 +20,7 @@ public class Frequency_of_num {
         System.out.println(Arrays.toString(freq));
         for(int i=0;i<=a.length;i++){
             if(freq[i]!=-1){
-                // System.out.println(a[i]+" comes "+freq[i]+" times");
+                System.out.println(a[i]+" comes "+freq[i]+" times");
             }
         }
     }

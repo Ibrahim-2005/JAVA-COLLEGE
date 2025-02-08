@@ -1,4 +1,3 @@
-package Day5;
 
 public class ArrayMin {
     public static void main(String[] args) {
