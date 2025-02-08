@@ -1,11 +1,11 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 public class Armstrong_number {
     public static void main(String[] args) {
         int val=153;
         int num=val;
         int n=val;
         double rem=0;
-        double result=0;
+        // double result=0;
         int count=0;
         //find number of digit
         while (num!=0) {     
@@ -17,7 +17,7 @@ public class Armstrong_number {
 
         }       
         System.out.println(count);
-
+        System.out.println(rem);
         double remain=0;
         double resultss=0;
         while (n!=0) {

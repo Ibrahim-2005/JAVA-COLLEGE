@@ -15,5 +15,6 @@ public class Power {
     System.out.println(box);
     String s=sc.next();
     System.out.println(s);
+    sc.close();
     }
 }

@@ -1,8 +1,8 @@
-package Day4;
+
 
 import java.util.Scanner;
 
-public class LCM {
+public class Lcm {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter two numbers");
@@ -26,5 +26,6 @@ public class LCM {
             max++;
         }
         // System.out.println(count);
+        sc.close();
     }
 }
