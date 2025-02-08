@@ -1,4 +1,6 @@
-public class Armstrong_2 {
+package Day4;
+
+public class AmstrongOther {
     public static void main(String[] args) {
         int n=153;
 
@@ -16,6 +18,5 @@ public class Armstrong_2 {
         }
 
         System.out.println((n==result)?"Armstrong":"Not Armstrong");
-    
-}
+    }
 }
