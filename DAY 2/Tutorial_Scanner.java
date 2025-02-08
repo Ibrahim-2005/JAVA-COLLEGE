@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Tutorial_Scanner {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         Scanner sc = new Scanner(System.in);
         // Integer input
         System.out.print("ENTER ANY NUMBER:");
