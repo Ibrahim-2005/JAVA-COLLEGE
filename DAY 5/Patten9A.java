@@ -1,7 +1,7 @@
 
 
 public class Patten9A {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int n=4;
         for(int i=1;i<n*2;i++){
             int totalColInRow=i>n?2*n-i:i;

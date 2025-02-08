@@ -1,5 +1,5 @@
 public class Array_max_of3 {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int a[] = { 4, 8, 3, 6, 1 };
         int first = Integer.MAX_VALUE;
         int second = Integer.MAX_VALUE;

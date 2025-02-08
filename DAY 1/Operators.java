@@ -1,5 +1,5 @@
 public class Operators {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int a,b,c,d,e,f,g,h,i,j,k;
         // arithmetic operators
         a=4;

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Array_count_of_012 {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int a[]={2,0,2,1,1,0};
         int c0=0,c1=0,c2=0;
         for(int i=0;i<a.length;i++)

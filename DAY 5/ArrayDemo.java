@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class ArrayDemo {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         Scanner sc=new Scanner(System.in);
         //1st Way
         int[] a= {1,2,3,4,5,6};

@@ -1,6 +1,6 @@
 
 public class ArrayMin {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int[] a={4,1,2,6,3};
         int min=a[0];
         // int min=0;

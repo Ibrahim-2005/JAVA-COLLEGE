@@ -1,5 +1,5 @@
 public class If_elseif_else {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int number = 0;
         if (number > 0) {
             System.out.println("The number is positive.");

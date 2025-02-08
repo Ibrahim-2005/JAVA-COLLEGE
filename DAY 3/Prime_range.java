@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Prime_range {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("ENTER ANOTHER NUMBER:");
         int start=sc.nextInt();

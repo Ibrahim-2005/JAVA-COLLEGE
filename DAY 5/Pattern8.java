@@ -1,7 +1,7 @@
 
 
 public class Pattern8 {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int n=29;
         for(int i=1;i<=n;i++){
             for(int j=1;j<=n-i;j++){

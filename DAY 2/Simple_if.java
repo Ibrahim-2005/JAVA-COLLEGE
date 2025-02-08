@@ -1,5 +1,5 @@
 public class Simple_if {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int a = 10;
         int b = 2;
         if (a > b) {

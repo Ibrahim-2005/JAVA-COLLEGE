@@ -1,5 +1,5 @@
 public class For_loop {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int i=0; // i is global variable    
         for (i=0; i <= 10; i++) {      // i is local variable
             System.out.print(i+"*");

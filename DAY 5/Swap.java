@@ -1,7 +1,7 @@
 
 
 public class Swap {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int a=5,b=7;
         int temp=a;
         a=b;

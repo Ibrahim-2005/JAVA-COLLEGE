@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Sum_of_digits {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("ENTER A NUMBER:");
         int num=sc.nextInt();

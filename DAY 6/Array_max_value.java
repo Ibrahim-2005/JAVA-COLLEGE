@@ -1,5 +1,5 @@
 public class Array_max_value {
-    public static void main(String[] args) {
+    public static void main(String_2[] args) {
         int a[] = { 4, 8, 3, 6, 1 };
 
         // System.out.println(Integer.MAX_VALUE);
