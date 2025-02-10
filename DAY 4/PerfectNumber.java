@@ -1,4 +1,3 @@
-package Day4;
 
 import java.util.Scanner;
 
@@ -16,6 +15,6 @@ public class PerfectNumber {
         }
         // System.out.println(sum);
         System.out.println((sum==n)?"It is a perfect Number":"It is not a perfect number");
-
+        sc.close();
     }
 }

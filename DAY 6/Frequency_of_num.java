@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Frequency_of_num {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
         int a[]={1,2,3,4,2,6,};
         int freq[]=new int[a.length];
         for (int i=0;i<a.length;i++){

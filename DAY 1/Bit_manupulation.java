@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Bit_manupulation {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int a;
         System.out.print("ENTER A NUMBER:");

@@ -1,4 +1,4 @@
-package Day4;
+
 
 public class AmstrongOther {
     public static void main(String[] args) {

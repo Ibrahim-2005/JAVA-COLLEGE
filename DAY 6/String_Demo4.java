@@ -1,5 +1,5 @@
 public class String_Demo4 {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
         String s=new String("IBRAHIM");
         String str="";
         int len=s.length()-1;

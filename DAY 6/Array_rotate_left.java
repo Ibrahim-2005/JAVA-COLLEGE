@@ -1,6 +1,6 @@
 import java.util.Arrays;
 public class Array_rotate_left {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
         int a[] = { 1, 2, 3, 4, 5 };
         int d = 3;
         for (int i = 0; i < d; i++) {

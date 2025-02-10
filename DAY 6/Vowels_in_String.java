@@ -1,5 +1,5 @@
 public class Vowels_in_String {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
         String str=new String("Hello World");
         str=str.toLowerCase();
         int count=0;

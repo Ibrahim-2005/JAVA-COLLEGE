@@ -1,5 +1,5 @@
 public class Array_min_val {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
         int a[] = { 4, 8, 3, 6, 1 };
         int first=Integer.MIN_VALUE;
         int second=Integer.MIN_VALUE;

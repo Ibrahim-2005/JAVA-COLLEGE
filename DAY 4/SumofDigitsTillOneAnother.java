@@ -1,4 +1,3 @@
-package Day4;
 
 import java.util.Scanner;
 
@@ -15,6 +14,7 @@ public class SumofDigitsTillOneAnother {
         }
 
         System.out.println("sum is "+sum);
+        sc.close();
     }
 
     public static int sumOfDigit(int n){
@@ -27,6 +27,7 @@ public class SumofDigitsTillOneAnother {
         // System.out.println(sum);
         return sum;
     }
+    
 
 
 }

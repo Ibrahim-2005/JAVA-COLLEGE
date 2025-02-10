@@ -1,5 +1,5 @@
 public class Operators2 {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
                 // This is main Method
                 System.out.println("Hello World");
                 byte a = 127;

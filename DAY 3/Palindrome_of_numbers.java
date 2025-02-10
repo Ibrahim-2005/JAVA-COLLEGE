@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Palindrome_of_numbers {
-    public static void main(String_2[] args) {
+    public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("ENTER A NUMBER:");
         int num=sc.nextInt();
