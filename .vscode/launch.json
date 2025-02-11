@@ -1,0 +1,483 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Merge_String_Alternatively",
+      "request": "launch",
+      "mainClass": "Merge_String_Alternatively",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Super_market",
+      "request": "launch",
+      "mainClass": "Super_market",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "name": "Python Debugger: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Amstrong",
+      "request": "launch",
+      "mainClass": "Amstrong",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "AmstrongOther",
+      "request": "launch",
+      "mainClass": "AmstrongOther",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong_2",
+      "request": "launch",
+      "mainClass": "Armstrong_2",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong_number",
+      "request": "launch",
+      "mainClass": "Armstrong_number",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_Duplicate",
+      "request": "launch",
+      "mainClass": "Array_Duplicate",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_count_of_012",
+      "request": "launch",
+      "mainClass": "Array_count_of_012",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_max_of3",
+      "request": "launch",
+      "mainClass": "Array_max_of3",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_max_value",
+      "request": "launch",
+      "mainClass": "Array_max_value",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_min_val",
+      "request": "launch",
+      "mainClass": "Array_min_val",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_rotate_left",
+      "request": "launch",
+      "mainClass": "Array_rotate_left",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_rotate_right",
+      "request": "launch",
+      "mainClass": "Array_rotate_right",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Array_two_sum",
+      "request": "launch",
+      "mainClass": "Array_two_sum",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Bit_manupulation",
+      "request": "launch",
+      "mainClass": "Bit_manupulation",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Comparing_methods",
+      "request": "launch",
+      "mainClass": "Comparing_methods",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Count_of_number",
+      "request": "launch",
+      "mainClass": "Count_of_number",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Divisible_by_3n5",
+      "request": "launch",
+      "mainClass": "Divisible_by_3n5",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "DoWhile",
+      "request": "launch",
+      "mainClass": "DoWhile",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Even_odd",
+      "request": "launch",
+      "mainClass": "Even_odd",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Even_under_10",
+      "request": "launch",
+      "mainClass": "Even_under_10",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Factors",
+      "request": "launch",
+      "mainClass": "Factors",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "For_loop",
+      "request": "launch",
+      "mainClass": "For_loop",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Frequency_of_num",
+      "request": "launch",
+      "mainClass": "Frequency_of_num",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Grades",
+      "request": "launch",
+      "mainClass": "Grades",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "If_else",
+      "request": "launch",
+      "mainClass": "If_else",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "If_elseif_else",
+      "request": "launch",
+      "mainClass": "If_elseif_else",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Lcm",
+      "request": "launch",
+      "mainClass": "Lcm",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Leap_year",
+      "request": "launch",
+      "mainClass": "Leap_year",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Length_in_String",
+      "request": "launch",
+      "mainClass": "Length_in_String",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Months",
+      "request": "launch",
+      "mainClass": "Months",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "NeonNumber",
+      "request": "launch",
+      "mainClass": "NeonNumber",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Nested_if",
+      "request": "launch",
+      "mainClass": "Nested_if",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Number_of_digits",
+      "request": "launch",
+      "mainClass": "Number_of_digits",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Operators",
+      "request": "launch",
+      "mainClass": "Operators",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Operators2",
+      "request": "launch",
+      "mainClass": "Operators2",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome_of_numbers",
+      "request": "launch",
+      "mainClass": "Palindrome_of_numbers",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Pattern1",
+      "request": "launch",
+      "mainClass": "Pattern1",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Pattern10",
+      "request": "launch",
+      "mainClass": "Pattern10",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Pattern2",
+      "request": "launch",
+      "mainClass": "Pattern2",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Pattern3",
+      "request": "launch",
+      "mainClass": "Pattern3",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Pattern4",
+      "request": "launch",
+      "mainClass": "Pattern4",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Pattern5",
+      "request": "launch",
+      "mainClass": "Pattern5",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "PerfectNumber",
+      "request": "launch",
+      "mainClass": "PerfectNumber",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Power",
+      "request": "launch",
+      "mainClass": "Power",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Prime",
+      "request": "launch",
+      "mainClass": "Prime",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Prime_range",
+      "request": "launch",
+      "mainClass": "Prime_range",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Simple_if",
+      "request": "launch",
+      "mainClass": "Simple_if",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "SquareRoot",
+      "request": "launch",
+      "mainClass": "SquareRoot",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Square_root",
+      "request": "launch",
+      "mainClass": "Square_root",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Str_methods",
+      "request": "launch",
+      "mainClass": "Str_methods",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "String_1",
+      "request": "launch",
+      "mainClass": "String_1",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "String_2",
+      "request": "launch",
+      "mainClass": "String_2",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "String_Demo4",
+      "request": "launch",
+      "mainClass": "String_Demo4",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Sum_of_digit_until_single",
+      "request": "launch",
+      "mainClass": "Sum_of_digit_until_single",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Sum_of_digits",
+      "request": "launch",
+      "mainClass": "Sum_of_digits",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "SumofDigitsTillOne",
+      "request": "launch",
+      "mainClass": "SumofDigitsTillOne",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "SumofDigitsTillOneAnother",
+      "request": "launch",
+      "mainClass": "SumofDigitsTillOneAnother",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Tables",
+      "request": "launch",
+      "mainClass": "Tables",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Total_length_of_String",
+      "request": "launch",
+      "mainClass": "Total_length_of_String",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Tutorial_Scanner",
+      "request": "launch",
+      "mainClass": "Tutorial_Scanner",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Vowels_consonants",
+      "request": "launch",
+      "mainClass": "Vowels_consonants",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "Vowels_in_String",
+      "request": "launch",
+      "mainClass": "Vowels_in_String",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    },
+    {
+      "type": "java",
+      "name": "While_loop",
+      "request": "launch",
+      "mainClass": "While_loop",
+      "projectName": "JAVA (COLLEGE)_a2c197f7"
+    }
+  ]
+}

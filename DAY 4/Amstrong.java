@@ -4,11 +4,12 @@ public class Amstrong{
         int val=153;
         int num=val;
         int n=val;
-        double rem=0;
-        double result=0;
+        
+        // double result=0;
         int count=0;
         //find number of digit
-        while (num!=0) {     
+        while (num!=0) {   
+            int rem=0; 
             rem=n%10;
             count++;
             num/=10;
